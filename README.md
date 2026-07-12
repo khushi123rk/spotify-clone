@@ -1,4 +1,7 @@
 # Spotify Clone
+# Preview
+
+![Spotify Clone Preview](home-page.png)
 A responsive Spotify Web Player clone built using HTML and CSS.
 
 # Features
